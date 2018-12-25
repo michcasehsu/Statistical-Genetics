@@ -1,4 +1,4 @@
-Statistical-Genetics
+Statistical-Genetics 1
 
 This file includes R markdown format codings for the BS 858 Statistical Genetics 1 Final Project
 
