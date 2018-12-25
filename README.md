@@ -7,7 +7,9 @@
 covariate data for the individuals and their siblings in the PLINK text files, as well as the rare variants in the gene that were
 identified by the targeted sequencing study). 
 
-# 1) analyze the data to determine whether your samples replicate the results of
+Objectives: 
+
+#1) analyze the data to determine whether your samples replicate the results of
 #the given research study for association between the 16 SNPs (including APOE-e4) and the amyloid deposition measured.
 #2) determine if the rare variants in the gene are significantly associated with the outcome in my sample. 
 
