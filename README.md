@@ -7,7 +7,7 @@ I have obtained separate PLINK text files ( .ped, .map, .pheno, .covar) and .csv
 
 Objectives: 
 
-1) analyze the data to determine whether your samples replicate the results of the given research study for association between the 16 SNPs (including APOE-e4) and the amyloid deposition measured.
+1) analyze the data to determine whether my study samples can replicate the results of the given research study for association between the 16 SNPs (including APOE-e4) and the amyloid deposition measured.
 
 2) determine if the rare variants in the gene are significantly associated with the outcome in my sample. 
 
