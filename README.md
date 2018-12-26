@@ -1,6 +1,6 @@
 Statistical-Genetics 1
 
-This file includes R markdown format codings for the BS 858 Statistical Genetics 1 Final Project
+This file includes R markdown format coding for the BS 858 Statistical Genetics 1 Final Project
 
 
 I have obtained separate PLINK text files ( .ped, .map, .pheno, .covar) and .csv files (giving the PET amyloid deposition data, AD status, and covariate data for the individuals and their siblings in the PLINK text files, as well as the rare variants in the gene that were identified by the targeted sequencing study). 
